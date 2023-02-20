@@ -71,6 +71,7 @@ div {
     font-variant: small-caps;
     font-weight: bold;
     font-size: 20px;
+    overflow: hidden;
 }
 
 .section {
